@@ -1,0 +1,386 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-Adventure {
+    width: 26px;
+    height: 25px;
+    background-position: -8px -8px;
+}
+
+.sprite-Adventure_2 {
+    width: 26px;
+    height: 25px;
+    background-position: -50px -8px;
+}
+
+.sprite-Blogs {
+    width: 26px;
+    height: 26px;
+    background-position: -92px -8px;
+}
+
+.sprite-Blogs_2 {
+    width: 26px;
+    height: 26px;
+    background-position: -134px -8px;
+}
+
+.sprite-Daily-News {
+    width: 26px;
+    height: 22px;
+    background-position: -176px -8px;
+}
+
+.sprite-Daily-News_2 {
+    width: 26px;
+    height: 22px;
+    background-position: -218px -8px;
+}
+
+.sprite-Education {
+    width: 32px;
+    height: 23px;
+    background-position: -260px -8px;
+}
+
+.sprite-Education_2 {
+    width: 32px;
+    height: 23px;
+    background-position: -176px -47px;
+}
+
+.sprite-Environment {
+    width: 25px;
+    height: 25px;
+    background-position: -224px -47px;
+}
+
+.sprite-Environment_2 {
+    width: 25px;
+    height: 25px;
+    background-position: -265px -47px;
+}
+
+.sprite-Events {
+    width: 26px;
+    height: 26px;
+    background-position: -8px -88px;
+}
+
+.sprite-Events_2 {
+    width: 26px;
+    height: 26px;
+    background-position: -50px -88px;
+}
+
+.sprite-Explorers {
+    width: 19px;
+    height: 26px;
+    background-position: -92px -88px;
+}
+
+.sprite-Explorers_2 {
+    width: 19px;
+    height: 26px;
+    background-position: -127px -88px;
+}
+
+.sprite-Games {
+    width: 26px;
+    height: 25px;
+    background-position: -162px -88px;
+}
+
+.sprite-Games_2 {
+    width: 26px;
+    height: 25px;
+    background-position: -204px -88px;
+}
+
+.sprite-Go {
+    width: 22px;
+    height: 22px;
+    background-position: -246px -88px;
+}
+
+.sprite-Home {
+    width: 26px;
+    height: 24px;
+    background-position: -246px -126px;
+}
+
+.sprite-Home1 {
+    width: 26px;
+    height: 24px;
+    background-position: -8px -166px;
+}
+
+.sprite-Icon-most {
+    width: 16px;
+    height: 16px;
+    background-position: -50px -166px;
+}
+
+.sprite-Icon-most__2 {
+    width: 16px;
+    height: 16px;
+    background-position: -82px -166px;
+}
+
+.sprite-Kids {
+    width: 21px;
+    height: 29px;
+    background-position: -114px -166px;
+}
+
+.sprite-Kids_2 {
+    width: 21px;
+    height: 29px;
+    background-position: -151px -166px;
+}
+
+.sprite-Login-Icon {
+    width: 14px;
+    height: 16px;
+    background-position: -188px -166px;
+}
+
+.sprite-Magazine {
+    width: 26px;
+    height: 26px;
+    background-position: -218px -166px;
+}
+
+.sprite-Magazine1 {
+    width: 15px;
+    height: 15px;
+    background-position: -260px -166px;
+}
+
+.sprite-Magazine1_2 {
+    width: 15px;
+    height: 15px;
+    background-position: -260px -197px;
+}
+
+.sprite-Magazine_2 {
+    width: 26px;
+    height: 26px;
+    background-position: -8px -228px;
+}
+
+.sprite-Maps {
+    width: 26px;
+    height: 26px;
+    background-position: -50px -228px;
+}
+
+.sprite-Maps_2 {
+    width: 26px;
+    height: 26px;
+    background-position: -92px -228px;
+}
+
+.sprite-Next-Arrow_2 {
+    width: 21px;
+    height: 21px;
+    background-position: -134px -228px;
+}
+
+.sprite-Photography {
+    width: 26px;
+    height: 18px;
+    background-position: -171px -228px;
+}
+
+.sprite-Photography_2 {
+    width: 26px;
+    height: 18px;
+    background-position: -213px -228px;
+}
+
+.sprite-Prev-Arrow_2 {
+    width: 21px;
+    height: 21px;
+    background-position: -255px -228px;
+}
+
+.sprite-Science {
+    width: 23px;
+    height: 26px;
+    background-position: -134px -265px;
+}
+
+.sprite-Science_2 {
+    width: 23px;
+    height: 26px;
+    background-position: -173px -265px;
+}
+
+.sprite-Search-Icon {
+    width: 21px;
+    height: 21px;
+    background-position: -212px -265px;
+}
+
+.sprite-Shopping {
+    width: 18px;
+    height: 18px;
+    background-position: -249px -265px;
+}
+
+.sprite-Shopping__2 {
+    width: 18px;
+    height: 18px;
+    background-position: -308px -8px;
+}
+
+.sprite-Sing-Up-Icon {
+    width: 16px;
+    height: 16px;
+    background-position: -308px -42px;
+}
+
+.sprite-Subscribe {
+    width: 17px;
+    height: 17px;
+    background-position: -306px -74px;
+}
+
+.sprite-Subscribe_2 {
+    width: 17px;
+    height: 17px;
+    background-position: -288px -107px;
+}
+
+.sprite-Subscription {
+    width: 18px;
+    height: 18px;
+    background-position: -291px -140px;
+}
+
+.sprite-Subscription_2 {
+    width: 18px;
+    height: 18px;
+    background-position: -291px -174px;
+}
+
+.sprite-TV {
+    width: 26px;
+    height: 26px;
+    background-position: -292px -208px;
+}
+
+.sprite-TV_2 {
+    width: 26px;
+    height: 26px;
+    background-position: -292px -250px;
+}
+
+s
+
+.sprite-Travel {
+    width: 26px;
+    height: 17px;
+    background-position: -37px -292px;
+}
+
+.sprite-Travel_2 {
+    width: 26px;
+    height: 17px;
+    background-position: -79px -292px;
+}
+
+.sprite-Trips {
+    width: 26px;
+    height: 21px;
+    background-position: -283px -292px;
+}
+
+.sprite-Trips_2 {
+    width: 26px;
+    height: 21px;
+    background-position: -342px -8px;
+}
+
+.sprite-Upcoming-event {
+    width: 16px;
+    height: 16px;
+    background-position: -340px -45px;
+}
+
+.sprite-Upcoming-event__2 {
+    width: 16px;
+    height: 16px;
+    background-position: -339px -77px;
+}
+
+.sprite-Video {
+    width: 26px;
+    height: 14px;
+    background-position: -321px -109px;
+}
+
+.sprite-Video_2 {
+    width: 26px;
+    height: 14px;
+    background-position: -325px -139px;
+}
+
+.sprite-clock {
+    width: 15px;
+    height: 15px;
+    background-position: -325px -169px;
+}
+
+.sprite-clock_2 {
+    width: 15px;
+    height: 15px;
+    background-position: -334px -200px;
+}
+
+.sprite-grid {
+    width: 16px;
+    height: 16px;
+    background-position: -334px -231px;
+}
+
+.sprite-grid_2 {
+    width: 16px;
+    height: 16px;
+    background-position: -334px -263px;
+}
+
+.sprite-list {
+    width: 16px;
+    height: 14px;
+    background-position: -325px -295px;
+}
+
+.sprite-list_2 {
+    width: 16px;
+    height: 14px;
+    background-position: -8px -325px;
+}
+
+.sprite-most_videos {
+    width: 16px;
+    height: 12px;
+    background-position: -50px -200px;
+}
+
+.sprite-most_videos__2 {
+    width: 16px;
+    height: 12px;
+    background-position: -82px -200px;
+}
+
+.sprite-pause {
+    width: 14px;
+    height: 16px;
+    background-position: -40px -325px;
+}
+
